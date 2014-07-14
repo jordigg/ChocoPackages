@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>teamspeak</id>
+    <title>TeamSpeak</title>
+    <version>3.0.15</version>
+    <authors>"TeamSpeak Systems GmbH"</authors>
+    <owners>caskater4</owners>
+    <summary>TeamSpeak Client</summary>
+    <description>A Voice-Over-IP (VoIP) software developed primarily for gamers to communicate with one another. Note: Silent installation not currently supported.</description>
+    <projectUrl>http://www.teamspeak.com/?page=teamspeak3</projectUrl>
+    <tags>teamspeak team speak ts3 ts voip mumble ventrilo</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.teamspeak.com/?page=legal</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/caskater4/ChocoPackages/master/teamspeak/teamspeak.png</iconUrl>
+    <releaseNotes>http://forum.teamspeak.com/showthread.php/100280-TeamSpeak-3-Client-3-0-15-released</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
