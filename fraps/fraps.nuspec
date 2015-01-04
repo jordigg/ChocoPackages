@@ -10,8 +10,6 @@
     <description>Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology.</description>
     <projectUrl>http://www.fraps.com</projectUrl>
     <tags>video screen capture game benchmark utility utilities</tags>
-    <copyright></copyright>
-    <licenseUrl>http://www.fraps.com</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/caskater4/ChocoPackages/master/fraps/fraps.png</iconUrl>
     <releaseNotes>http://www.fraps.com/news.php</releaseNotes>
