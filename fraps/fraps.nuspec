@@ -3,13 +3,13 @@
   <metadata>
     <id>fraps</id>
     <title>Fraps</title>
-    <version>3.5.99.1</version>
+    <version>3.5.99.20150108</version>
     <authors>"Beepa Pty Ltd"</authors>
     <owners>caskater4</owners>
     <summary>Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology.</summary>
-    <description>Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology.</description>
+    <description>Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology. Note: This package does not have a silent installer.</description>
     <projectUrl>http://www.fraps.com</projectUrl>
-    <tags>video screen capture game benchmark utility utilities</tags>
+    <tags>video screen capture game benchmark utility utilities not-silent</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/caskater4/ChocoPackages/master/fraps/fraps.png</iconUrl>
     <releaseNotes>http://www.fraps.com/news.php</releaseNotes>
