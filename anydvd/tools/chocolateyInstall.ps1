@@ -1,6 +1,6 @@
 ﻿$packageName = 'anydvd'
 $installerType = 'EXE'
-$url = 'http://static.slysoft.com/SetupAnyDVD7560.exe'
+$url = 'http://static.slysoft.com/SetupAnyDVD7570.exe'
 $silentArgs = '/S'
 $validExitCodes = @(0)
 
