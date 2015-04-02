@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>p4</id>
-    <title>P4: Perforce Client and Server</title>
-    <version>2014.2</version>
+    <title>P4: Perforce Server</title>
+    <version>2015.1</version>
     <authors>"Perforce Software, Inc."</authors>
     <owners>caskater4</owners>
     <summary>p4</summary>
@@ -14,7 +14,7 @@
     <licenseUrl>http://www.perforce.com/downloads/terms-use</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/caskater4/ChocoPackages/master/p4/p4.png</iconUrl>
-    <releaseNotes>http://www.perforce.com/perforce/r12.2/user/relnotes.txt</releaseNotes>
+    <releaseNotes>http://www.perforce.com/perforce/r15.1/user/relnotes.txt</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
