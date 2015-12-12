@@ -3,7 +3,7 @@
   <metadata>
     <id>teamspeak</id>
     <title>TeamSpeak</title>
-    <version>3.0.17</version>
+    <version>3.0.18.2</version>
     <authors>"TeamSpeak Systems GmbH"</authors>
     <owners>caskater4</owners>
     <summary>TeamSpeak Client</summary>
@@ -14,7 +14,7 @@
     <licenseUrl>http://www.teamspeak.com/?page=eula</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/TomOne/various/master/teamspeak.png</iconUrl>
-    <releaseNotes>http://forum.teamspeak.com/showthread.php/119239-TeamSpeak-Client-3-0-17-released</releaseNotes>
+    <releaseNotes>http://forum.teamspeak.com/threads/121002-TeamSpeak-Client-3-0-18-2-released</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
