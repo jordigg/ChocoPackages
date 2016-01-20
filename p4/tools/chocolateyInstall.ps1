@@ -1,7 +1,7 @@
 ﻿$packageName = 'p4'
 $installerType = 'EXE'
-$url = 'http://www.perforce.com/downloads/perforce/r15.1/bin.ntx86/perforce.exe'
-$url64 = 'http://www.perforce.com/downloads/perforce/r15.1/bin.ntx64/perforce64.exe'
+$url = 'http://cdist2.perforce.com/perforce/r15.2/bin.ntx86/helix-p4-x86.exe'
+$url64 = 'http://cdist2.perforce.com/perforce/r15.2/bin.ntx64/helix-p4-x64.exe'
 $silentArgs = '/s /v"/qn"'
 $validExitCodes = @(0)
 
