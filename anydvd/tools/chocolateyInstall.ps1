@@ -1,6 +1,6 @@
 ﻿$packageName = 'anydvd'
 $installerType = 'EXE'
-$url = 'https://forum.redfox.bz/download/SetupAnyDVD7691.exe'
+$url = 'https://www.redfox.bz/download/SetupAnyDVD.exe'
 $silentArgs = '/S'
 $validExitCodes = @(0)
  

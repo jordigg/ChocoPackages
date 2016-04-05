@@ -3,18 +3,21 @@
   <metadata>
     <id>teamspeak</id>
     <title>TeamSpeak</title>
-    <version>3.0.18.2</version>
+    <version>3.0.19</version>
     <authors>"TeamSpeak Systems GmbH"</authors>
     <owners>caskater4</owners>
     <summary>TeamSpeak Client</summary>
     <description>A Voice-Over-IP (VoIP) software developed primarily for gamers to communicate with one another.</description>
     <projectUrl>http://www.teamspeak.com/?page=teamspeak3</projectUrl>
-    <tags>teamspeak team speak ts3 ts voip mumble ventrilo</tags>
+    <tags>admin teamspeak team speak ts3 ts voip mumble ventrilo</tags>
     <copyright></copyright>
     <licenseUrl>http://www.teamspeak.com/?page=eula</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/TomOne/various/master/teamspeak.png</iconUrl>
-    <releaseNotes>http://forum.teamspeak.com/threads/121002-TeamSpeak-Client-3-0-18-2-released</releaseNotes>
+    <releaseNotes>http://forum.teamspeak.com/threads/123437-Beta-Channel-TeamSpeak-3-Client-3-0-19</releaseNotes>
+	<docsUrl>https://support.teamspeakusa.com/index.php?/Knowledgebase/List/Index/10/english</docsUrl>
+	<mailingListUrl>http://forum.teamspeak.com/</mailingListUrl>
+	<packageSourceUrl>https://github.com/caskater4/ChocoPackages/tree/master/teamspeak</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
