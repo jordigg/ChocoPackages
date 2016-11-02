@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>p4</id>
-    <title>P4: Perforce Command-Line Client</title>
-    <version>2015.2</version>
+    <title>Helix P4 Command-Line Client</title>
+    <version>161.145.4320</version>
     <authors>"Perforce Software, Inc."</authors>
     <owners>caskater4</owners>
     <summary>p4</summary>
@@ -15,9 +15,9 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/caskater4/ChocoPackages/master/p4/p4.png</iconUrl>
     <releaseNotes>https://www.perforce.com/perforce/r15.2/user/p4pnotes.txt</releaseNotes>
-	<docsUrl>https://www.perforce.com/perforce/r15.2/manuals/p4guide/</docsUrl>
-	<mailingListUrl>https://www.perforce.com/support-services</mailingListUrl>
-	<packageSourceUrl>https://github.com/caskater4/ChocoPackages/tree/master/p4</packageSourceUrl>
+  	<docsUrl>https://www.perforce.com/perforce/r15.2/manuals/p4guide/</docsUrl>
+  	<mailingListUrl>https://www.perforce.com/support-services</mailingListUrl>
+  	<packageSourceUrl>https://github.com/caskater4/ChocoPackages/tree/master/p4</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
